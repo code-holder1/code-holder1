@@ -43,13 +43,13 @@
 
 ### 📌 Pinned Projects
 Check out some of my work:
-- [🔐 YPass-The possword manager (React + Node + Auth)](https://github.com/your-username/password-manager)
+- [🔐 YPass-The possword manager (React + Node + Auth)](https://github.com/code-holder1/YPass-Your-Personal-Password-Vault)
 - [💳 Stripe Donation Page](https://github.com/your-username/donation-app)
 
 ---
 
 ### 🌍 Let's Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)] (Will Update Soon)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white) (Will Update Soon)] 
 [🌍 Portfolio (Coming Soon...)]
 
 ---
