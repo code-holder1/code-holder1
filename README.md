@@ -2,7 +2,7 @@
 <h3 align="center">🚀 A Passionate Full Stack Web Developer from Pakistan</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=your-username&label=Profile%20views&color=0e75b6&style=flat" alt="your-username" />
+  <img src="https://komarev.com/ghpvc/?username=Naveed-Bhatti1&label=Profile%20views&color=0e75b6&style=flat" alt="Naveed-Bhatti1" />
 </p>
 
 - 🔭 I’m currently working on **my personal developer portfolio**
@@ -29,29 +29,38 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
 </p>
 
-
 ---
 
 ### 📊 GitHub Stats
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=code-holder1&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=code-holder1&theme=tokyonight" />
-
+  <img src="https://github-readme-stats.vercel.app/api?username=Naveed-Bhatti1&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Naveed-Bhatti1&theme=tokyonight" />
 </p>
 
 ---
 
 ### 📌 Pinned Projects
 Check out some of my work:
-- [🔐 YPass-The possword manager (React + Node + Auth)](https://github.com/code-holder1/YPass-Your-Personal-Password-Vault)
-- [💳 Stripe Donation Page](https://github.com/your-username/donation-app)
+
+- 🔐 [YPass – Password Manager (React + Node.js + Auth)](https://github.com/code-holder1/YPass-Your-Personal-Password-Vault)
+- 💳 [Back-Me-Up – Stripe Donation Page (Next.js)](https://github.com/Naveed-Bhatti1/Back-Me-Up)
+- 🔗 [MiniLink – URL Shortener (Next.js 15, MongoDB)](https://github.com/Naveed-Bhatti1/MiniLink)
 
 ---
 
 ### 🌍 Let's Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white) (Will Update Soon)] 
-[🌍 Portfolio (Coming Soon...)]
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-link-soon/)  
+📧 Email: **codeholder1@gmail.com**
 
 ---
 
-Want help planning your portfolio too (design, sections, animations, etc.)?
+### 🎯 Portfolio Preview (Coming Soon...)
+
+I'm currently designing my portfolio using Next.js and Tailwind with interactive UI, animations, and project demos. Stay tuned!
+
+---
+
+Thanks for stopping by! 😊  
+*Always learning. Always building.*
+
