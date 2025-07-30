@@ -34,7 +34,9 @@
 ### 📊 GitHub Stats
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=Naveed-Bhatti1&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Naveed-Bhatti1&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.demolab.com?user=Naveed-Bhatti1&theme=tokyonight" />
+
+
 </p>
 
 ---
@@ -44,7 +46,7 @@ Check out some of my work:
 
 - 🔐 [YPass – Password Manager (React + Node.js + Auth)](https://github.com/code-holder1/YPass-Your-Personal-Password-Vault)
 - 💳 [Back-Me-Up – Stripe Donation Page (Next.js)](https://github.com/Naveed-Bhatti1/Back-Me-Up)
-- 🔗 [MiniLink – URL Shortener (Next.js 15, MongoDB)](https://github.com/Naveed-Bhatti1/MiniLink)
+- 🔗 [MiniLink – URL Shortener (Next.js 15, MongoDB)](https://github.com/Naveed-Bhatti1/Minilink-Your-Trusted-URL-Shortener)
 
 ---
 
