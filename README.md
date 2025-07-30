@@ -5,11 +5,11 @@
   <img src="https://komarev.com/ghpvc/?username=Naveed-Bhatti1&label=Profile%20views&color=0e75b6&style=flat" alt="Naveed-Bhatti1" />
 </p>
 
-- 🔭 I’m currently working on **my personal developer portfolio**
-- 🌱 I’m diving deeper into **Next.js**, **Tailwind CSS**, and **UI/UX best practices**
-- 🐍 I’ve also learned **Python** and use it for basic scripting and problem-solving
-- 💬 Ask me about **React, Node.js, MongoDB, and building full-stack apps**
-- 📫 Reach me at: **codeholder1@gmail.com**
+- 🔭 I’m currently working on **my personal developer portfolio**  
+- 🌱 I’m diving deeper into **Next.js**, **Tailwind CSS**, and **UI/UX best practices**  
+- 🐍 I’ve also learned **Python** and use it for basic scripting and problem-solving  
+- 💬 Ask me about **React, Node.js, MongoDB, and building full-stack apps**  
+- 📫 Reach me at: **codeholder1@gmail.com**  
 - ⚡ Fun fact: I started learning from YouTube and now I build full projects from scratch!
 
 ---
@@ -33,17 +33,19 @@
 
 ### 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Naveed-Bhatti1&show_icons=true&theme=tokyonight)
-
-![GitHub Streak](https://github-readme-streak-stats.demolab.com?user=Naveed-Bhatti1&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Naveed-Bhatti1&show_icons=true&theme=tokyonight" alt="Stats" width="48%" />
+  <!-- Streak stats may fail temporarily after username change -->
+  <!-- <img src="https://streak-stats.demolab.com/?user=Naveed-Bhatti1&theme=tokyonight" alt="Streak" width="48%" /> -->
+</p>
 
 ---
 
 ### 📌 Pinned Projects
 Check out some of my work:
 
-- 🔐 [YPass – Password Manager (React + Node.js + Auth)](https://github.com/code-holder1/YPass-Your-Personal-Password-Vault)
-- 💳 [Back-Me-Up – Stripe Donation Page (Next.js)](https://github.com/Naveed-Bhatti1/Back-Me-Up)
+- 🔐 [YPass – Password Manager (React + Node.js + Auth)](https://github.com/code-holder1/YPass-Your-Personal-Password-Vault)  
+- 💳 [Back-Me-Up – Stripe Donation Page (Next.js)](https://github.com/Naveed-Bhatti1/Back-Me-Up)  
 - 🔗 [MiniLink – URL Shortener (Next.js 15, MongoDB)](https://github.com/Naveed-Bhatti1/Minilink-Your-Trusted-URL-Shortener)
 
 ---
@@ -63,4 +65,3 @@ I'm currently designing my portfolio using Next.js and Tailwind with interactive
 
 Thanks for stopping by! 😊  
 *Always learning. Always building.*
-
