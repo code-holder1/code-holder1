@@ -32,12 +32,10 @@
 ---
 
 ### 📊 GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Naveed-Bhatti1&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.demolab.com?user=Naveed-Bhatti1&theme=tokyonight" />
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Naveed-Bhatti1&show_icons=true&theme=tokyonight)
 
-</p>
+![GitHub Streak](https://github-readme-streak-stats.demolab.com?user=Naveed-Bhatti1&theme=tokyonight)
 
 ---
 
