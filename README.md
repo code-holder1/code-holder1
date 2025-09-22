@@ -2,7 +2,8 @@
 <h3 align="center">🚀 Full-Stack Web Developer | ASP.NET + MERN | Based in Pakistan</h3>
 
 <p align="center">
- <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=38B2AC&center=true&vCenter=true&width=435&lines=I+build+scalable+%26+modern+web+apps;React+%7C+Next.js+%7C+ASP.NET+%7C+SQL+Server;Always+learning+new+things!" alt="Typing SVG" />
+ <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=38B2AC&center=true&vCenter=true&width=550&lines=I%20build%20scalable%20%26%20modern%20web%20apps;React%20%7C%20Next.js%20%7C%20ASP.NET%20%7C%20SQL%20Server;Always%20learning%20new%20things!" alt="Typing SVG" />
+
 </p>
 
 ---
