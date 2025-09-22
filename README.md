@@ -5,10 +5,11 @@
   <img src="https://komarev.com/ghpvc/?username=Naveed-Bhatti1&label=Profile%20views&color=0e75b6&style=flat" alt="Naveed-Bhatti1" />
 </p>
 
-- 🔭 I’m currently working on **my personal developer portfolio**  
+- 🔭 I’m currently building **a Blog Post App with ASP.NET Core & SQL Server**  
 - 🌱 I’m diving deeper into **Next.js**, **Tailwind CSS**, and **UI/UX best practices**  
-- 🐍 I’ve also learned **Python** and use it for basic scripting and problem-solving  
-- 💬 Ask me about **React, Node.js, MongoDB, and building full-stack apps**  
+- 💻 Expanding my backend skills with **ASP.NET Core, Razor Pages, and SQL Server**  
+- 🐍 I also use **Python** for basic scripting and problem-solving  
+- 💬 Ask me about **React, Node.js, ASP.NET, MongoDB, and building full-stack apps**  
 - 📫 Reach me at: **codeholder1@gmail.com**  
 - ⚡ Fun fact: I started learning from YouTube and now I build full projects from scratch!
 
@@ -26,6 +27,8 @@
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/Express.js-404D59?style=flat-square"/>
   <img src="https://img.shields.io/badge/MongoDB-4DB33D?style=flat-square&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ASP.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
 </p>
 
@@ -35,8 +38,6 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Naveed-Bhatti1&show_icons=true&theme=tokyonight" alt="Stats" width="48%" />
-  <!-- Streak stats may fail temporarily after username change -->
-  <!-- <img src="https://streak-stats.demolab.com/?user=Naveed-Bhatti1&theme=tokyonight" alt="Streak" width="48%" /> -->
 </p>
 
 ---
@@ -44,15 +45,16 @@
 ### 📌 Pinned Projects
 Check out some of my work:
 
-- 🔐 [YPass – Password Manager (React + Node.js + Auth)](https://github.com/code-holder1/YPass-Your-Personal-Password-Vault)  
-- 💳 [Back-Me-Up – Stripe Donation Page (Next.js)](https://github.com/Naveed-Bhatti1/Back-Me-Up)  
+- 🔐 [YPass – Password Manager (React + Node.js + Auth)](https://github.com/code-holder1/YPass-Your-Personal-Password-Vault) – [Live Demo](https://ypass.duckdns.org)
+- 💳 [Back-Me-Up – Stripe Donation Page (Next.js)](https://github.com/Naveed-Bhatti1/Back-Me-Up)
 - 🔗 [MiniLink – URL Shortener (Next.js 15, MongoDB)](https://github.com/Naveed-Bhatti1/Minilink-Your-Trusted-URL-Shortener)
+- 📰 [Blog Post App – ASP.NET Core + SQL Server](#) (Work in Progress)
 
 ---
 
 ### 🌍 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-link-soon/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/naveed-ur-rehman-b43015383/)  
 📧 Email: **codeholder1@gmail.com**
 
 ---
