@@ -40,7 +40,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Naveed-Bhatti1&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Naveed-Bhatti1&theme=tokyonight&hide_border=true" />
+<!--   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Naveed-Bhatti1&theme=tokyonight&hide_border=true" /> -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Naveed-Bhatti1&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
